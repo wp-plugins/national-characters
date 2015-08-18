@@ -14,7 +14,7 @@ Based on the WP core function. WordPress does not allow to use national characte
 == Installation ==
 = Automatic installation =
 
-This is the easiest option to install plugin i as WordPress. To do an automatic install of National Characters, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
+This is the easiest option to install WordPress plugin. To do an automatic install of National Characters, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
 
 In the search field type “National Characters” and click Search Plugins. You can install it by simply clicking “Install Now”.
 
