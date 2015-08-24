@@ -4,10 +4,10 @@ Tags: national,characters,national characters,special,registration,sign up,polis
 Requires at least: 3.0
 Tested up to: 4.2.3
 
-Allows you to enter national characters in username during registration.
+Allows you to enter national characters (special characters) in username during registration.
 
 == Description ==
-The plugin allows you to enter national characters in username during registration.
+The plugin allows you to enter national characters (special characters) in username during registration.
 
 Based on the WP core function. WordPress does not allow to use national characters in usernames by default. This plugin fixes this issue.
 
